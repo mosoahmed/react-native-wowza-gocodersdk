@@ -1,0 +1,20 @@
+{
+  "name": "react-native-wowza-gocodersdk",
+  "version": "1.0.0",
+  "description": "react native wowza gocodersdk module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wowza",
+    "video",
+    "streaming",
+    "gocoder",
+    "gocodersdk",
+    "vod",
+    "capture"
+  ],
+  "author": "Mosaad Ahmed",
+  "license": "ISC"
+}
